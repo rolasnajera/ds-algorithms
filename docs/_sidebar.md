@@ -1,0 +1,2 @@
+- Algorithms
+  - [Sorts](sorts.md)
